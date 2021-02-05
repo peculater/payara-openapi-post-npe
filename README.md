@@ -4,7 +4,7 @@ I've verified this in both Payara micro and the standalone server.
 
 ## Requirements
 
-* Java 11
+* Java 11 (Works with 8 as well, update pom.xml)
 * Maven
 
 ## What to do and notice
