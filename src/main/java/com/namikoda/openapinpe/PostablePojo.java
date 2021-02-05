@@ -9,8 +9,7 @@ package com.namikoda.openapinpe;
  *
  * @author William Lieurance <william.lieurance@namikoda.com>
  */
-public class PostablePojo { // This avoids the NPE?!
-//public class PostablePojo implements Serializable {
+public class PostablePojo { 
     
     private String message;
 
